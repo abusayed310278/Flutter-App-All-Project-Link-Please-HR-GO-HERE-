@@ -22,7 +22,7 @@ My role included UI/UX implementation, feature development, API integration, per
 
  - **Zenolok Mobile App**
   
-  https://github.com/FSDTeam-SAA/flutter_zenolok
+   https://github.com/FSDTeam-SAA/flutter_zenolok
 
 I focus on writing clean, scalable Flutter code while building efficient, user-friendly mobile experiences.
 
