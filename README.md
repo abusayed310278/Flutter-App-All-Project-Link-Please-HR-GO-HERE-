@@ -8,7 +8,7 @@ My role included UI/UX implementation, feature development, API integration, per
   https://github.com/FSDTeam-SAA/flutter_ursffiver
 
 - **Allora Mike Jallah Mobile App**  
-  https://github.com/FSDTeam-SAA/allora_mikejallah_mobile_app
+  [https://github.com/FSDTeam-SAA/allora_mikejallah_mobile_app](https://github.com/abusayed310278/Flutter_app_allora_mikejallah_mobile_app)
 
 - **Paschal Oliver Mobile App**  
   https://github.com/FSDTeam-SAA/flutter_paschaloliver
