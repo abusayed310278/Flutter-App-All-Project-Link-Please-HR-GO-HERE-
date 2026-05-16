@@ -24,9 +24,13 @@ My role included UI/UX implementation, feature development, API integration, per
   
    [https://github.com/FSDTeam-SAA/flutter_zenolok](https://github.com/FSDTeam-SAA/flutter_zenolok)
 
-    - **published Mobile App**
+ - **NVF published Mobile App**
 
    https://apps.apple.com/us/app/nvf/id6760635896
+
+ - **Bu IT QUIZ published Mobile App**
+
+   [https://apps.apple.com/us/app/nvf/id6760635896](https://apps.apple.com/us/app/it-quiz-bu/id6761289369)
 
 I focus on writing clean, scalable Flutter code while building efficient, user-friendly mobile experiences.
 
